@@ -1,6 +1,6 @@
 # Integram-Crystal-Chrome-Camera
 recreating Roger Lannes de Montebello's crystal chrome process
-
+The AIM : https://gallery98.org/2020/roger-de-montebello-positive-photo-transparency-for-man-with-camel-cigarettes-1985/
 
 Paper by de Montebello shows that this was done using 2 pieces of film, 1 to take the image and another that is embossed into a lenticular surface. 
 process on how to emboss the film itself, does this tear it or break it? should we heat the film a bit? 
