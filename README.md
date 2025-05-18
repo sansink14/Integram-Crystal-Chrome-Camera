@@ -8,6 +8,7 @@ https://filmcolors.org/galleries/kodacolor-lenticular-film-illustrations-and-equ
 
 flys eye photography Henry Jones who patented a process to make these lenses. 
 https://snakemonkey.com/
+https://youtu.be/Ajm_PmIeRio?si=1M3ICTOSGAMn6GJB
 
 Another integral image uses process space which is all the different angles placed in a single sheet encoded. 
 http://www.eastjesus.net/tech/imo/IntegralMicroOptics.html
